@@ -1,0 +1,10 @@
+<map bounds="5,5,-5,-5" bg=".5,.5,1,1">
+  <light id="0" ambient=".1,.1,.1,.1" diffuse=".5,.5,.4,1" specular="1,1,.8,1" position="1,1,.5,0" />
+  <rect bounds="6,6,-6,5" color="1,1,1,1"/>
+  <rect bounds="6,-5,-6,-6" color="1,1,1,1"/>
+  <rect bounds="-5,6,-6,-6" color="1,1,1,1"/>
+  <rect bounds="6,6,5,-6" color="1,1,1,1"/>
+  <rect bounds="4,2,1,-2" color="1,0,0,1"/>
+  <random bounds="5,5,-5,-5" color="1,1,1,1" size="1,0.25" number="10"/>
+  <random bounds="5,5,-5,-5" color="1,1,1,1" size="0.25,1" number="10"/>
+</map>
